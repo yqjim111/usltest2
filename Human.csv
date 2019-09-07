@@ -1,0 +1,27 @@
+Name,Occupation,Country,Language,Gender,Expertise
+T,Faculty,USA,English,M,Urban Ecology
+D,Faculty,Germany,"English, German",M,Data Visualization
+R,Faculty,Italy,"English,Italian, Bulgarian",F,"Urban Food Systems Planning, Spatial Analysis"
+E,Faculty,USA,"English, Spanish",F,"Urban Ecology, Sustainability Sciences"
+Z,Postdocs,Poland,"Polish, English,German, American Sign Language, Spanish",M,Political Ecology
+P,Postdocs,USA,"English, Russian,Spanish",M,"Urban Ecology, Communications"
+L,Postdocs,Puerto Rico,"Spanish, English",M,Urban Climate and Energy
+A,Postdocs,Egypt,"English, Arabic",M,"Spatial Computing, Spatial Data Science, Spatial Statistics, Spatial Modeling"
+J,Administrative,USA,English,F,"Communications, General Management"
+J,Research Associate,England,English,M,"Computer Science, Data Visualization"
+V,PhD Fellow,Italy,"Italian, Spanish, Portuguese, English",F,Climate Change Policy
+K,PhD Fellow,Netherlands,"Dutch, English",F,"Environmental Politics, Feminist Enviromentalism"
+B,PhD Fellow,USA,English,M,Urban Ecology
+C,Research Associate,Peru,"Spanish, English",F,"Urban Design, Data Visualization"
+A,Research Associate,USA,"Hebrew, English",F,"Data Visualization, Web Development, Computer Science"
+J,Visiting Scholar,China,"Chinese, English",M,Urban Ecology
+P,Research Associate,Spain,"Spanish, English",M,"Urban Ecology, Climate Change Policy"
+J,Visiting Scholar,Canada,English,H,"Spatial Modeling, Local Environmental Stewardship Research"
+S,Research Assistant,USA,English,F,"Data Visualization, Graphic Design"
+N,Research Assistant,Saudi Arabia,"English, Arabic, French",F,"Urban Ecology, Climate Change Policy"
+R,Research Associate,USA,"Hindi, English",M,"Climate Change Policy, Sustainability Sciences"
+J,Research Associate,India,"English, Hindi, Punjabi",M,"Data Visualization, Web Development, Computer Science"
+M,Visiting Scholar,Brasil,"English, Spanish, Portuguese",F,"Spatial Analysis, Urban Design"
+E,Visiting Scholar,Czech Republic,"English, Czech",F,Urban Ecology
+Q,Research Associate,China,"English, Chinese",M,Architecture Design
+R,Research Associate,Spain,"English, Spanish",F,"Spatial Modeling, Urban Ecology"
