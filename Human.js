@@ -1,7 +1,7 @@
 // define basic parameters
 var margin = {top: 30, bottom: 30, left: 250, right: 30}
 var w1=1800
-var h1=1800
+var h1=800
 var moduleW = 15
 var moduleH = 21
 var gap = 60
